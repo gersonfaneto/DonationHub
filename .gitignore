@@ -1,0 +1,6 @@
+# Nix
+.direnv/
+
+# Python
+.venv/
+src/__pycache__/
